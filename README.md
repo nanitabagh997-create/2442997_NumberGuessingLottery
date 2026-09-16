@@ -160,7 +160,7 @@ This project is created for learning basic PHP programming concepts, including a
 
 ## GitHub Repository Name
 
-`Number-Guessing-Lottery`
+2442997_NumberGuessingLottery
 
 ## Author
 
